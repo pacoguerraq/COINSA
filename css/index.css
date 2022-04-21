@@ -24,7 +24,7 @@
 }
 
 .slick-track {
-  padding: 1rem 0;
+  padding: 0.5rem 0;
 }
 
 .slick-loading .slick-track {
@@ -74,14 +74,10 @@
     height: 1rem;
   }
 } */
-
-body {
-    background-color: #010101;
-  }
   
 .row2 {
   overflow: hidden;
-  background-color: rgb(134, 134, 134);
+  background-color: rgba(235,235,235,1.00);
 }  
 
 /* JsFiddle Example only/don't use */
